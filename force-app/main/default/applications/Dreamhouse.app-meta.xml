@@ -53,6 +53,9 @@
     <navType>Standard</navType>
     <setupExperience>all</setupExperience>
     <tabs>standard-home</tabs>
+    <tabs>standard-report</tabs><!-- 표준 탭 -->
+    <tabs>standard-Dashboard</tabs><!-- 표준 탭 -->
+    <tabs>KPI_Dashboard</tabs><!-- 사용자 정의 탭이므로 tabs와 flexipage등 설정 필요 -->
     <tabs>Property_Explorer</tabs>
     <tabs>Property_Finder</tabs>
     <tabs>standard-Contact</tabs>

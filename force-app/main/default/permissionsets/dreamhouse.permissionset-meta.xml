@@ -206,6 +206,10 @@
         <visibility>Visible</visibility>
     </tabSettings>
     <tabSettings>
+        <tab>KPI_Dashboard</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+    <tabSettings>
         <tab>Property_Explorer</tab>
         <visibility>Visible</visibility>
     </tabSettings>
